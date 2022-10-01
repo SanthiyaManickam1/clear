@@ -1,0 +1,26 @@
+h1{
+    color:blueviolet;
+}
+.one input{
+    width:500px;
+    margin-bottom: 20px;
+    text-align: center;
+   
+}
+.one p{
+    margin-bottom: 20px;
+}
+.one input[type="Login"]{
+    border-radius: 30px;
+    height:40px;
+    background-color: coral;
+}
+.one input[type="text"], input[type="password"]{
+    border-radius:30px;
+    height:40px;
+    background-color: cyan;
+}
+.one input[type="text"], input[type="Email"]{
+    border-radius: 30px;
+    height:30px;
+}
